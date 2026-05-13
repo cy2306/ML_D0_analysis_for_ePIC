@@ -1,0 +1,48 @@
+000 (1132.079.000) 2025-12-25 18:43:11 Job submitted from host: <130.199.48.160:9618?addrs=[2620-0-210-a002--160]-9618+130.199.48.160-9618&alias=eicsub02.sdcc.bnl.gov&noUDP&sock=schedd_1122_32c5>
+...
+001 (1132.079.000) 2025-12-25 18:46:43 Job executing on host: <130.199.186.84:9618?addrs=[2620-0-210-9054--84]-9618+130.199.186.84-9618&alias=spool1847.sdcc.bnl.gov&noUDP&sock=startd_78373_2a23>
+	SlotName: slot1_51@spool1847.sdcc.bnl.gov
+	CondorScratchDir = "/home/condor/local/sdcc/execute/dir_845503"
+	Cpus = 1
+	Disk = 7408
+	Memory = 4096
+	xferslots = 0
+...
+006 (1132.079.000) 2025-12-25 18:46:52 Image size of job updated: 60676
+	60  -  MemoryUsage of job (MB)
+	60676  -  ResidentSetSize of job (KB)
+...
+006 (1132.079.000) 2025-12-25 18:51:53 Image size of job updated: 2019384
+	1972  -  MemoryUsage of job (MB)
+	2018552  -  ResidentSetSize of job (KB)
+...
+006 (1132.079.000) 2025-12-25 18:56:54 Image size of job updated: 2023112
+	1974  -  MemoryUsage of job (MB)
+	2021092  -  ResidentSetSize of job (KB)
+...
+006 (1132.079.000) 2025-12-25 19:01:54 Image size of job updated: 2027088
+	1978  -  MemoryUsage of job (MB)
+	2025068  -  ResidentSetSize of job (KB)
+...
+006 (1132.079.000) 2025-12-25 19:05:14 Image size of job updated: 2338668
+	1978  -  MemoryUsage of job (MB)
+	2025068  -  ResidentSetSize of job (KB)
+...
+005 (1132.079.000) 2025-12-25 19:05:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:15:51, Sys 0 00:00:14  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:15:51, Sys 0 00:00:14  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.90        1         1 
+	   Disk (KB)            :     1           1      7408 
+	   Memory (MB)          :  1978        4096      4096 
+	   TimeExecute (s)      :  1111                       
+	   TimeSlotBusy (s)     :  1111                       
+	   xferslots            :                           0 
+...

@@ -1,0 +1,27 @@
+INFO:    Environment variable SINGULARITY_BINDPATH is set, but APPTAINER_BINDPATH is preferred
+Warning in <TClass::Init>: no dictionary for class edm4hep::Vector2i is available
+Error in <TNetXNGFile::Init>: file root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.0/epic_craterlake/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_3.0354.eicrecon.edm4eic.root is truncated at 50331648 bytes: should be 173429019, trying to recover
+Warning in <TNetXNGFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TNetXNGFile::TNetXNGFile>: Object is in 'zombie' state
+Error in <TTreeReaderArrayBase::CreateContentProxy()>: The branch MCParticles.momentum.x contains data of type double. It cannot be accessed by a TTreeReaderArray<float>
+Error in <TTreeReaderArrayBase::CreateContentProxy()>: The branch MCParticles.momentum.y contains data of type double. It cannot be accessed by a TTreeReaderArray<float>
+Error in <TTreeReaderArrayBase::CreateContentProxy()>: The branch MCParticles.momentum.z contains data of type double. It cannot be accessed by a TTreeReaderArray<float>
+Error in <TTreeReaderArrayBase::CreateContentProxy()>: The branch CentralCKFTrackParameters.covariance.covariance[21] contains data of type float. It cannot be accessed by a TTreeReaderArray<array<float,21>>
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed
+Error in <Fitting>: Fitting failed

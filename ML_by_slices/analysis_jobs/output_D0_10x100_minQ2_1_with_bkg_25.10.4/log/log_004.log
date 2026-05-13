@@ -1,0 +1,54 @@
+000 (1130.004.000) 2025-12-25 14:15:49 Job submitted from host: <130.199.48.160:9618?addrs=[2620-0-210-a002--160]-9618+130.199.48.160-9618&alias=eicsub02.sdcc.bnl.gov&noUDP&sock=schedd_1122_32c5>
+...
+001 (1130.004.000) 2025-12-25 14:15:57 Job executing on host: <130.199.149.181:9618?addrs=[2620-0-210-9011--181]-9618+130.199.149.181-9618&alias=spool0297.sdcc.bnl.gov&noUDP&sock=startd_55508_ae45>
+	SlotName: slot1_38@spool0297.sdcc.bnl.gov
+	CondorScratchDir = "/home/condor/local/sdcc/execute/dir_1336635"
+	Cpus = 1
+	Disk = 14765
+	Memory = 4096
+	xferslots = 0
+...
+006 (1130.004.000) 2025-12-25 14:16:10 Image size of job updated: 23952
+	24  -  MemoryUsage of job (MB)
+	23952  -  ResidentSetSize of job (KB)
+...
+006 (1130.004.000) 2025-12-25 14:21:10 Image size of job updated: 2022056
+	1975  -  MemoryUsage of job (MB)
+	2021932  -  ResidentSetSize of job (KB)
+...
+006 (1130.004.000) 2025-12-25 14:26:10 Image size of job updated: 2042964
+	1996  -  MemoryUsage of job (MB)
+	2042964  -  ResidentSetSize of job (KB)
+...
+006 (1130.004.000) 2025-12-25 14:31:11 Image size of job updated: 2044620
+	1996  -  MemoryUsage of job (MB)
+	2043540  -  ResidentSetSize of job (KB)
+...
+006 (1130.004.000) 2025-12-25 14:36:11 Image size of job updated: 2044924
+	1996  -  MemoryUsage of job (MB)
+	2043540  -  ResidentSetSize of job (KB)
+...
+006 (1130.004.000) 2025-12-25 14:39:41 Image size of job updated: 2313940
+	1996  -  MemoryUsage of job (MB)
+	2043540  -  ResidentSetSize of job (KB)
+...
+005 (1130.004.000) 2025-12-25 14:39:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:16:21, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:16:21, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.93        1         1 
+	   Disk (KB)            :     1           1     14765 
+	   Memory (MB)          :  1996        4096      4096 
+	   TimeExecute (s)      :  1424                       
+	   TimeSlotBusy (s)     :  1424                       
+	   xferslots            :                           0 
+
+	Job terminated of its own accord at 2025-12-25T19:39:41Z with exit-code 0.
+...
