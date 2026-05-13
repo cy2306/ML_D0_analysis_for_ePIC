@@ -1,0 +1,55 @@
+022 (1125.003.000) 2025-12-23 12:05:18 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_4@spool0642.sdcc.bnl.gov <130.199.149.248:9618?addrs=[2620-0-210-9007--248]-9618+130.199.149.248-9618&alias=spool0642.sdcc.bnl.gov&noUDP&sock=startd_108817_4e67>
+...
+024 (1125.003.000) 2025-12-23 12:05:18 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_4@spool0642.sdcc.bnl.gov, rescheduling job
+...
+004 (1125.003.000) 2025-12-23 12:05:18 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Job not found at execution machine
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        1        1     14709 
+	   Memory (MB)          :              4096      4096 
+	   xferslots            :                           0 
+...
+001 (1125.003.000) 2025-12-23 12:05:34 Job executing on host: <130.199.186.84:9618?addrs=[2620-0-210-9054--84]-9618+130.199.186.84-9618&alias=spool1847.sdcc.bnl.gov&noUDP&sock=startd_78373_2a23>
+	SlotName: slot1_91@spool1847.sdcc.bnl.gov
+	CondorScratchDir = "/home/condor/local/sdcc/execute/dir_375120"
+	Cpus = 1
+	Disk = 7408
+	Memory = 4096
+	xferslots = 0
+...
+006 (1125.003.000) 2025-12-23 12:05:42 Image size of job updated: 81584
+	80  -  MemoryUsage of job (MB)
+	81584  -  ResidentSetSize of job (KB)
+...
+006 (1125.003.000) 2025-12-23 12:06:28 Image size of job updated: 2320632
+	80  -  MemoryUsage of job (MB)
+	81584  -  ResidentSetSize of job (KB)
+...
+005 (1125.003.000) 2025-12-23 12:06:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:36, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:36, Sys 0 00:00:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.80        1         1 
+	   Disk (KB)            :     1           1      7408 
+	   Memory (MB)          :    80        4096      4096 
+	   TimeExecute (s)      :    54                       
+	   TimeSlotBusy (s)     :    54                       
+	   xferslots            :                           0 
+...

@@ -1,0 +1,40 @@
+/eic/u/cyang/eic/Job_submission_RCF/output_D0_10x100_minQ2_1_25.10.3
+/eic/u/cyang/eic/Job_submission_RCF/input_files/D0_10x100_minQ2_1_25.10.3/subList_028.list
+/eic/u/cyang/eic/Job_submission_RCF/output_D0_10x100_minQ2_1_25.10.3/output_028.root
+/eic/u/cyang/eic/Job_submission_RCF/output_D0_10x100_minQ2_1_25.10.3/Signal_028.root
+/eic/u/cyang/eic/Job_submission_RCF/output_D0_10x100_minQ2_1_25.10.3/Bkg_028.root
+[i] Add 0th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0247.eicrecon.edm4eic.root
+[i] Add 1th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0248.eicrecon.edm4eic.root
+[i] Add 2th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0249.eicrecon.edm4eic.root
+[i] Add 3th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0250.eicrecon.edm4eic.root
+[i] Add 4th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0251.eicrecon.edm4eic.root
+[i] Add 5th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0252.eicrecon.edm4eic.root
+[i] Add 6th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0253.eicrecon.edm4eic.root
+[i] Add 7th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0254.eicrecon.edm4eic.root
+[i] Add 8th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0255.eicrecon.edm4eic.root
+[i] Add 9th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0256.eicrecon.edm4eic.root
+[i] Add 10th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0257.eicrecon.edm4eic.root
+[i] Add 11th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0258.eicrecon.edm4eic.root
+[i] Add 12th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0259.eicrecon.edm4eic.root
+[i] Add 13th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0260.eicrecon.edm4eic.root
+[i] Add 14th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0262.eicrecon.edm4eic.root
+[i] Add 15th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0263.eicrecon.edm4eic.root
+[i] Add 16th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0264.eicrecon.edm4eic.root
+[i] Add 17th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0265.eicrecon.edm4eic.root
+[i] Add 18th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0266.eicrecon.edm4eic.root
+[i] Add 19th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/pythia8.306-1.1_D0_10x100_hiDiv_q2_1_run02.0267.eicrecon.edm4eic.root
+[i] Read in 20 files with 6300 events in total
+
+[i] New event 0
+
+[i] New event 1000
+
+[i] New event 2000
+
+[i] New event 3000
+
+[i] New event 4000
+
+[i] New event 5000
+
+[i] New event 6000

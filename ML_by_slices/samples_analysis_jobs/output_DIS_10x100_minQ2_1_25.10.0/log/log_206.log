@@ -1,0 +1,36 @@
+000 (1125.206.000) 2025-12-23 12:05:08 Job submitted from host: <130.199.48.160:9618?addrs=[2620-0-210-a002--160]-9618+130.199.48.160-9618&alias=eicsub02.sdcc.bnl.gov&noUDP&sock=schedd_1122_32c5>
+...
+001 (1125.206.000) 2025-12-23 12:09:58 Job executing on host: <130.199.207.219:9618?addrs=[2620-0-210-9040--219]-9618+130.199.207.219-9618&alias=spool1506.sdcc.bnl.gov&noUDP&sock=startd_103332_5f7d>
+	SlotName: slot1_60@spool1506.sdcc.bnl.gov
+	CondorScratchDir = "/home/condor/local/sdcc/execute/dir_1517489"
+	Cpus = 1
+	Disk = 7408
+	Memory = 4096
+	xferslots = 0
+...
+006 (1125.206.000) 2025-12-23 12:10:07 Image size of job updated: 85116
+	84  -  MemoryUsage of job (MB)
+	85116  -  ResidentSetSize of job (KB)
+...
+006 (1125.206.000) 2025-12-23 12:11:19 Image size of job updated: 2199096
+	84  -  MemoryUsage of job (MB)
+	85116  -  ResidentSetSize of job (KB)
+...
+005 (1125.206.000) 2025-12-23 12:11:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:31, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:31, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :        1        1      7408 
+	   Memory (MB)          :       84     4096      4096 
+	   TimeExecute (s)      :       81                    
+	   TimeSlotBusy (s)     :       81                    
+	   xferslots            :                           0 
+...

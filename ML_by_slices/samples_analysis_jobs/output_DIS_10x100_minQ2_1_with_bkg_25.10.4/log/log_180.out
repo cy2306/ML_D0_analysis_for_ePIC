@@ -1,0 +1,28 @@
+/eic/u/cyang/eic/Job_submission_RCF/output_DIS_10x100_minQ2_1_with_bkg_25.10.4
+/eic/u/cyang/eic/Job_submission_RCF/input_files/DIS_10x100_minQ2_1_with_bkg_25.10.4/subList_180.list
+/eic/u/cyang/eic/Job_submission_RCF/output_DIS_10x100_minQ2_1_with_bkg_25.10.4/output_180.root
+/eic/u/cyang/eic/Job_submission_RCF/output_DIS_10x100_minQ2_1_with_bkg_25.10.4/Signal_180.root
+/eic/u/cyang/eic/Job_submission_RCF/output_DIS_10x100_minQ2_1_with_bkg_25.10.4/Bkg_180.root
+[i] Add 0th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3619.eicrecon.edm4eic.root
+[i] Add 1th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3620.eicrecon.edm4eic.root
+[i] Add 2th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3621.eicrecon.edm4eic.root
+[i] Add 3th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3622.eicrecon.edm4eic.root
+[i] Add 4th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3623.eicrecon.edm4eic.root
+[i] Add 5th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3624.eicrecon.edm4eic.root
+[i] Add 6th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3625.eicrecon.edm4eic.root
+[i] Add 7th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3626.eicrecon.edm4eic.root
+[i] Add 8th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3627.eicrecon.edm4eic.root
+[i] Add 9th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3628.eicrecon.edm4eic.root
+[i] Add 10th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3629.eicrecon.edm4eic.root
+[i] Add 11th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3630.eicrecon.edm4eic.root
+[i] Add 12th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3631.eicrecon.edm4eic.root
+[i] Add 13th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3632.eicrecon.edm4eic.root
+[i] Add 14th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3633.eicrecon.edm4eic.root
+[i] Add 15th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3634.eicrecon.edm4eic.root
+[i] Add 16th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3635.eicrecon.edm4eic.root
+[i] Add 17th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3636.eicrecon.edm4eic.root
+[i] Add 18th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3637.eicrecon.edm4eic.root
+[i] Add 19th file: root://dtn-eic.jlab.org//volatile/eic/EPIC/RECO/25.10.4/epic_craterlake/Bkg_1SignalPer2usFrame/DIS/NC/10x100/minQ2=1/pythia8NCDIS_10x100_minQ2=1_beamEffects_xAngle=-0.025_hiDiv_1.3638.eicrecon.edm4eic.root
+[i] Read in 20 files with 960 events in total
+
+[i] New event 0

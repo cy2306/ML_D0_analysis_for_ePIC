@@ -1,0 +1,52 @@
+000 (1132.101.000) 2025-12-25 18:43:11 Job submitted from host: <130.199.48.160:9618?addrs=[2620-0-210-a002--160]-9618+130.199.48.160-9618&alias=eicsub02.sdcc.bnl.gov&noUDP&sock=schedd_1122_32c5>
+...
+001 (1132.101.000) 2025-12-25 18:47:39 Job executing on host: <130.199.207.212:9618?addrs=[2620-0-210-9040--212]-9618+130.199.207.212-9618&alias=spool1499.sdcc.bnl.gov&noUDP&sock=startd_25641_26fc>
+	SlotName: slot1_35@spool1499.sdcc.bnl.gov
+	CondorScratchDir = "/home/condor/local/sdcc/execute/dir_3045548"
+	Cpus = 1
+	Disk = 7408
+	Memory = 4096
+	xferslots = 0
+...
+006 (1132.101.000) 2025-12-25 18:47:47 Image size of job updated: 84164
+	83  -  MemoryUsage of job (MB)
+	84164  -  ResidentSetSize of job (KB)
+...
+006 (1132.101.000) 2025-12-25 18:52:47 Image size of job updated: 2017800
+	1970  -  MemoryUsage of job (MB)
+	2017256  -  ResidentSetSize of job (KB)
+...
+006 (1132.101.000) 2025-12-25 18:57:48 Image size of job updated: 2020328
+	1971  -  MemoryUsage of job (MB)
+	2018212  -  ResidentSetSize of job (KB)
+...
+006 (1132.101.000) 2025-12-25 19:02:48 Image size of job updated: 2021604
+	1975  -  MemoryUsage of job (MB)
+	2021448  -  ResidentSetSize of job (KB)
+...
+006 (1132.101.000) 2025-12-25 19:07:48 Image size of job updated: 2023580
+	1975  -  MemoryUsage of job (MB)
+	2021448  -  ResidentSetSize of job (KB)
+...
+006 (1132.101.000) 2025-12-25 19:11:24 Image size of job updated: 2336316
+	1975  -  MemoryUsage of job (MB)
+	2021448  -  ResidentSetSize of job (KB)
+...
+005 (1132.101.000) 2025-12-25 19:11:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:15:24, Sys 0 00:00:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:15:24, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.62        1         1 
+	   Disk (KB)            :     1           1      7408 
+	   Memory (MB)          :  1975        4096      4096 
+	   TimeExecute (s)      :  1425                       
+	   TimeSlotBusy (s)     :  1426                       
+	   xferslots            :                           0 
+...
