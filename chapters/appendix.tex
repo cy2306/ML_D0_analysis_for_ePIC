@@ -319,15 +319,15 @@ These broad cuts remove (mostly background) candidates far away from the expecte
 We then apply cuts on the $y$ and $p_T$ of the candidates to select the kinematic slice of interest.
 
 %------------------------
-\section{Training and testing data selections for BDT}
+\section{Data selections for BDT}
 \label{app.presel}
-We train the models on the ``raw" data obtained after preselection and kinematic cuts (not on the resampled data.) For training, we want the numbers of signal and background candidates to be the same. Thus, we resize the signal and background datasets (using randomized selection) to equal the minimum number of the two.
-
-We also make additional invariant mass cuts on the signal and background candidates such that the signal candidates sit in or near the expected $D^0$ peak region and the background candidates sit in the sideband regions:
+We train the models on the ``raw" data obtained after preselection and kinematic cuts (not on the resampled data.) Before using this data train the BDT model, we make additional invariant mass cuts on the signal and background candidates such that the signal candidates sit in or near the expected $D^0$ peak region and the background candidates sit in the sideband regions:
 \begin{itemize}
     \item Signal cut: $1.7 < m_{D^0}<2.1$
     \item Background cut: $1.6 < m_{D^0}<1.7$ or $2.1 < m_{D^0}<2.5$
 \end{itemize}
+
+For BDT training, we also want the numbers of signal and background candidates to be the same. Thus, we resize the signal and background datasets (using randomized selection) to equal the minimum number of the two. Finally, we randomly select 80\% of the signal and background candidates for training and 20\% for testing.
 
 %------------------------
 \section{Fits and resampling}
